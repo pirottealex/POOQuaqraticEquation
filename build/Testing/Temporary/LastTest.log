@@ -1,0 +1,23 @@
+Start testing: Mar 20 08:50 CET
+----------------------------------------------------------
+1/1 Testing: testEq2deg
+1/1 Test: testEq2deg
+Command: "/home/alexandre/Documents/POO/QuaqraticEquation/build/testEq2deg"
+Directory: /home/alexandre/Documents/POO/QuaqraticEquation/build
+"testEq2deg" start time: Mar 20 08:50 CET
+Output:
+----------------------------------------------------------
+Discriminant: 5
+Discriminant: 0
+Discriminant: -3
+
+*** No errors detected
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testEq2deg" end time: Mar 20 08:50 CET
+"testEq2deg" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 20 08:50 CET

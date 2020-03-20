@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//Eq2deg.hpp
+vector
+-
+Utilities.hpp
+-
+
+..//Utilities.hpp
+iosfwd
+-
+sstream
+-
+string
+-
+
+/home/alexandre/Documents/POO/QuaqraticEquation/Eq2deg.cpp
+math.h
+-
+iostream
+-
+sstream
+-
+Eq2deg.hpp
+-
+

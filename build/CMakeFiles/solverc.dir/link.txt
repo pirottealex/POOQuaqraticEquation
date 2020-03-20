@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/solverc.dir/solverc.cpp.o  -o solverc  -L/usr/local/lib -Wl,-rpath,/usr/local/lib:/home/alexandre/Documents/POO/QuaqraticEquation/build libEq2degComp.so libEq2deg.so 
